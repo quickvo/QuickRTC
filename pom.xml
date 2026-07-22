@@ -7,9 +7,9 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <!-- that they should prefer consuming it instead. -->
 <!-- do_not_remove: published-with-gradle-metadata -->
 <modelVersion>4.0.0</modelVersion>
-<groupId>com.quick.rtc</groupId>
-<artifactId>QuickRTC</artifactId>
-<version>1.1.2</version>
+<groupId>com.qv.rtc</groupId>
+<artifactId>QvRTC</artifactId>
+<version>1.2.0</version>
 <packaging>aar</packaging>
 <build>
   <plugins>
